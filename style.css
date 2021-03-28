@@ -1,0 +1,10 @@
+html {
+  /* background: linear-gradient(to left, #fc466b, #3f5efb); */
+  background: linear-gradient(to right, #eeaeca, #94bbe9);
+}
+
+@media only screen and (max-width: 600px) {
+  .card-footer {
+      display: block;
+  }
+}
